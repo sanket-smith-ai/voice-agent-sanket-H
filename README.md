@@ -7,7 +7,7 @@ This document explains **how to clone, install, and run** the AI Voice Agent loc
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sanket-smith-ai/voice-agent-sanket-H.git)
+git clone https://github.com/sanket-smith-ai/voice-agent-sanket-H.git
 cd Simuphish
 ```
 
@@ -216,4 +216,5 @@ Simuphish/
 * No cloud APIs used
 
 ---
+
 
