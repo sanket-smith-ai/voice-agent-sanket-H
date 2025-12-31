@@ -80,7 +80,7 @@ Each component is modular and can be replaced independently.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sanket-smith-ai/voice-agent-sanket-H.git
 cd Simuphish
 ```
 
@@ -208,5 +208,6 @@ This project demonstrates:
 
 
 ---
+
 
 
