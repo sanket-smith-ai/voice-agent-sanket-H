@@ -165,10 +165,9 @@ Simuphish/
 ├── llm_engine.py       # Local LLM inference
 ├── whisper_stt.py      # Speech-to-text
 │
-├── audio/
-│   ├── vad.py          # Voice activity detection
-│   ├── tts.py          # Text-to-speech
-│   ├── chunker.py      # Sentence chunking
+├── vad.py          # Voice activity detection
+├── tts.py          # Text-to-speech
+├── chunker.py      # Sentence chunking
 │
 ├── requirements.txt
 └── README.md
@@ -216,5 +215,6 @@ Simuphish/
 * No cloud APIs used
 
 ---
+
 
 
