@@ -1,0 +1,71 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.dll
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+aivoice/
+.venv/
+
+# =========================
+# Model & Cache Files
+# =========================
+models/
+.cache/
+torch_cache/
+*.gguf
+*.bin
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# HuggingFace & Torch caches
+**/.cache/huggingface/
+**/.cache/torch/
+**/torch/hub/
+
+# =========================
+# Audio / Temp Files
+# =========================
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.tmp
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+.streamlit/config.toml
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
