@@ -14,8 +14,6 @@ The primary objective of this project is to demonstrate:
 * How to design a **modular, replaceable architecture**
 * Practical trade-offs when running **locally using open-source models**
 
-This project is **not intended to be production-grade**, but rather a **technical demonstration**.
-
 ---
 
 ## 🏗️ Architecture Overview
@@ -215,4 +213,5 @@ This would transform the agent from a **basic voice interface** into a **behavio
 
 
 ---
+
 
