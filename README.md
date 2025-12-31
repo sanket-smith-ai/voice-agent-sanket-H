@@ -6,7 +6,6 @@ The application enables **voice-to-voice interaction**:
 
 > Speak → Transcribe → Generate AI response → Convert to speech → Play audio
 
-The primary goal of this project is **technical evaluation**, not production scale.
 
 ---
 
@@ -208,6 +207,7 @@ This project demonstrates:
 
 
 ---
+
 
 
 
